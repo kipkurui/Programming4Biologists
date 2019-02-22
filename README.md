@@ -16,13 +16,12 @@ Lecture workspace for the MSc Bioinformatics at Pwani University. Here is an out
 5. Time permitting, we can introduce R programming basics using [R 4 Data Science materials](https://r4ds.had.co.nz/)
 
 ### Projects
-During this course, you will work on a python programming project, in which you will get to utilize the newfound skills, and learn even more by doing. I will use GitHub classroom for this part since the students will be required to submit their work via GitHub. 
+During this course, you will work on a python programming project, in which you will get to utilize the newfound skills, and learn even more by doing. I will use GitHub classroom for this part since you will be required to submit your work via GitHub. 
 
 ### Assignments
-The notebooks are infused with programming exercises on genomic data. 
-
+The notebooks are infused with programming exercises on genomic data parsing and analysis. 
 
 ### Teaching approach
 
-We will use a lot of live coding in class, and very few lectures. I will, however, provide some reference text for a deeper grasp of the programming concepts. My focus will be to teach the thinking behind computing. How to turn a biological problem to a computational problem, and solve it using bash scripting or Python. The focus is on thinking. 
+We will use a lot of live coding in class, and very few lectures. I will, however, provide some reference text for a deeper grasp of the programming concepts. My focus will be to teach the thinking behind computing. How to turn a biological problem to a computational problem, and solve it using bash scripting or Python. The focus is on thinking.
 
