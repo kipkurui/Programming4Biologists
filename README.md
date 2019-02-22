@@ -2,14 +2,14 @@
 
 Lecture workspace for the MSc Bioinformatics at Pwani University. Here is an outline of what we will learn in this course:
 
-1. Introduction to Computing and Computational thinking: [Lecture](Lecture1_Introduction_To_Computational_Thinking.pdf)
+1. Introduction to Computing and Computational thinking: [Lecture](Lectures/Lecture1_Introduction_Computational_Thinking.pdf)
 2. A lecture on [Open science and reproducible research](https://docs.google.com/presentation/d/1QjrhjKDlq9VF4gNRSL_jQqAuOAx7lA4tvbg1YUITcWU/edit#slide=id.p37)
 2. [Introduction to Git and GitHub for version control](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit#slide=id.g3e08b71c2d_1_0): Hands-on session
 3. Introduction to Linux on the command line:
       - Basic commands: [Rik's page commands live coding](http://rik.smith-unna.com/command_line_bootcamp)
       - Dive deeper to Linux and scripting: [lecture materials from IBT by Amel](https://github.com/amelgh/Introduction_To_Linux)
       - Setting up a reproducible Bioinformatics project workspace
-4. [Python for Bioinformatics](https://github.com/kipkurui/Python4Bioinformatics)
+4. [Python for Bioinformatics](https://github.com/kipkurui/Python4Bioinformatics2019)
       - Setting up and working with Python on IDLE console and the various text editors we can use
       - Setting up Jupyter Notebooks and the conda environment
       - Go through the materials on the Jupyter Notebooks starting from introduction all the way to Biopython but we do not cover the section on Object-Oriented programming
