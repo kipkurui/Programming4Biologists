@@ -2,7 +2,7 @@
 
 Lecture workspace for the MSc Bioinformatics at Pwani University. Here is an outline of what we will learn in this course:
 
-1. Introduction to Computing and Computational thinking: [Lecture](Lectures/Lecture1_Introduction_Computational_Thinking.pdf)
+1. Introduction to Computing and Computational thinking: [Lecture](Programming_And_ComputationalThinking.pdf)
 2. A lecture on [Open science and reproducible research](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit?usp=sharing)
 2. [Introduction to Git and GitHub for version control](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit#slide=id.g3e08b71c2d_1_0): Hands-on session
 3. Introduction to Linux on the command line:
