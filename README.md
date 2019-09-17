@@ -13,7 +13,6 @@ Lecture workspace for the MSc Bioinformatics at Pwani University. Here is an out
       - Setting up and working with Python on IDLE console and the various text editors we can use
       - Setting up Jupyter Notebooks and the conda environment
       - Go through the materials on the Jupyter Notebooks starting from introduction all the way to Biopython but we do not cover the section on Object-Oriented programming
-5. Time permitting, we can introduce R programming basics using [R 4 Data Science materials](https://r4ds.had.co.nz/)
 
 ### Projects
 During this course, you will work on a python programming project, in which you will get to utilize the newfound skills, and learn even more by doing. I will use GitHub classroom for this part since you will be required to submit your work via GitHub. 
